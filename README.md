@@ -4,5 +4,7 @@ My name is Marília, I am a brazilian Agronomic Engineering, currently doing my 
 
 Happy to join the GitHub team!
 
+P.S.: Enjoy my first publication on https://pubs.acs.org/doi/10.1021/acs.jafc.4c03071
+
 Cheers,
 Marília.
